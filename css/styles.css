@@ -83,7 +83,7 @@ body {
   /* Firefox */
   -webkit-appearance: none;
   /* Safari and Chrome */
-  /*  appearance: none;
+  appearance: none;
   border: none;
   border-bottom: 1.5px solid #ccc;
   padding: 5px;
@@ -91,7 +91,7 @@ body {
   position: relative;
 }
 
-#right form .form-field {
+/*#right form .form-field {
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
