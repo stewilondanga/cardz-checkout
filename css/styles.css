@@ -118,13 +118,13 @@ body {
   margin-top: 10px;
 }
 
-/*#right form button[type="submit"]:hover {
+#right form button[type="submit"]:hover {
   background: transparent;
   box-shadow: 0 0 0 3px #4183d7;
   color: #4183d7;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
