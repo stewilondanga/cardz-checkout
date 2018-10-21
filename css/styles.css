@@ -81,7 +81,7 @@ body {
 #right form input, #right form select {
   -moz-appearance: none;
   /* Firefox */
-  /*-webkit-appearance: none;
+  -webkit-appearance: none;
   /* Safari and Chrome */
   /*  appearance: none;
   border: none;
