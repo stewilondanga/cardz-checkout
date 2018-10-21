@@ -91,14 +91,14 @@ body {
   position: relative;
 }
 
-/*#right form .form-field {
+#right form .form-field {
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
   margin-bottom: 12.5px;
 }
 
-#right form #date-val {
+/*#right form #date-val {
   display: flex;
   justify-content: space-between;
 }
