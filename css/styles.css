@@ -6,6 +6,15 @@ html, body {
   padding: 0;
 }
 
+body {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(#e6e6e6, #bbbbbb);
+  font-family: "Raleway", sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,16 +36,6 @@ html, body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-body {
-  display: flex;
-  flex-flow: row nowrap;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(#e6e6e6, #bbbbbb);
-  font-family: "Raleway", sans-serif;
 }
 
 #main {
