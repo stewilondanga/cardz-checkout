@@ -72,13 +72,13 @@ body {
   padding-left: 20px;
 }
 
-/*#right form {
+#right form {
   display: flex;
   flex-flow: column nowrap;
   width: 100%;
 }
 
-#right form input,
+/*#right form input,
 #right form select {
   -moz-appearance: none;
   /* Firefox */
