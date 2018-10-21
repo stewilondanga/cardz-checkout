@@ -98,12 +98,12 @@ body {
   margin-bottom: 12.5px;
 }
 
-/*#right form #date-val {
+#right form #date-val {
   display: flex;
   justify-content: space-between;
 }
 
-#right form #date-val select {
+/*#right form #date-val select {
   width: 45%;
 }
 
