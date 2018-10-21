@@ -30,7 +30,7 @@ body {
   height: 1.5em;
 }
 
-/*#main {
+#main {
   position: relative;
   width: 550px;
   height: 330px;
@@ -40,7 +40,7 @@ body {
   background-color: white;
 }
 
-#left {
+/*#left {
   position: relative;
   background: linear-gradient(135deg, rgba(91, 36, 122, 0.45) 0%, rgba(27, 206, 223, 0.55) 100%), url("https://images.pexels.com/photos/556663/pexels-photo-556663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940");
   background-size: cover;
