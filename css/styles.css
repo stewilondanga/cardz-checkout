@@ -78,15 +78,12 @@ body {
   width: 100%;
 }
 
-/*#right form input,
-#right form select {
+#right form input, #right form select {
   -moz-appearance: none;
   /* Firefox */
-
-/*-webkit-appearance: none;
+  /*-webkit-appearance: none;
   /* Safari and Chrome */
-
-/*  appearance: none;
+  /*  appearance: none;
   border: none;
   border-bottom: 1.5px solid #ccc;
   padding: 5px;
