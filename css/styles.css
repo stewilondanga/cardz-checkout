@@ -103,11 +103,11 @@ body {
   justify-content: space-between;
 }
 
-/*#right form #date-val select {
+#right form #date-val select {
   width: 45%;
 }
 
-#right form button[type="submit"] {
+/*#right form button[type="submit"] {
   background: linear-gradient(135deg, #4183d7 0%, #66cc99 100%);
   padding: 5px;
   border: none;
